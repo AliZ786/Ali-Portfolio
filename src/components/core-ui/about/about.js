@@ -36,6 +36,9 @@ function About() {
               <br />
               <br />
               {aboutData.description3}
+              <br />
+              <br />
+              {aboutData.description4}
             </p>
           </div>
           <div className="about-animation">

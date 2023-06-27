@@ -1,23 +1,20 @@
 export const educationData = [
-    {
-        id: 1,
-        institution: 'Noakhali Government College',
-        course: 'Bachelor Degree',
-        startYear: '2020',
-        endYear: 'Present'
-    },
-    {
-        id: 2,
-        institution: 'Noakhali Islamia Kamil Madrasah',
-        course: 'Higher Secondary',
-        startYear: '2018',
-        endYear: '2020'
-    },
-    {
-        id: 3,
-        institution: 'Baitus Saif Islamia Madrasah',
-        course: 'Secondary School',
-        startYear: '2008',
-        endYear: '2018'
-    },
-]
+  {
+    id: 1,
+    institution: "Concordia University",
+    course: "Bachelor Degree",
+    field: "Software Engineering",
+    startYear: "January 2018",
+    endYear: "April 2023",
+    address: "1455 Boul. de Maisonneuve Ouest, Montréal, QC H3G 1M8",
+  },
+  {
+    id: 2,
+    institution: "Dawson College",
+    course: "Diplôme D'études Collégiales",
+    field: "Pure & Applied Sciences",
+    startYear: "August 2015",
+    endYear: "December 2017",
+    address: "3040 Sherbrooke St W, Montreal, Quebec H3Z 1A4",
+  },
+];

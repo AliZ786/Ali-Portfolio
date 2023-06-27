@@ -249,3 +249,9 @@
     top: 20%;
   }
 }
+
+.movedown {
+  transform: translateY(
+    10px
+  ); /* Adjust the value to move the image down by your desired amount */
+}

@@ -6,4 +6,6 @@ export const aboutData = {
     "I am very passionate about programming, as well as learning new technologies. I have a diverse range of projects that I have done which have ranged from Web Development, Game Development, Mobile Application Development, and also Data Science.",
   description3:
     "When I am not programming, I love playing video games such as JRPGs and watching TV shows. I also love to read when I have the time as I want to keep on learning new stuff all the time.",
+  description4:
+    "Je suis aussi trilingue, car je parle Français aussi couramment. Ma langue maternelle est le Ourdou, donc n'hésiter pas de communiquer avec moi dans n'importe lequel de ces trois langues.",
 };
