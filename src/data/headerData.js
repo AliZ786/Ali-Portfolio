@@ -1,9 +1,12 @@
-
 export const headerData = {
-    name: 'ABU SAID',
-    title: "Hello! I am",
-    desciption: "Hello! I am ABU SAID, a professional and passionate programmer in my daily life. A quick learner with a self-learning attitude. I love to learn and explore new technologies and am Passionate about Problem Solving. ",
-    image: 'https://i.ibb.co/ZmdNH6x/abu-said.jpg',
-    imagebw: 'https://i.ibb.co/Cw2Xp90/abu-said-bw.jpg',
-    resumePdf: 'https://docs.google.com/document/d/1MkkoRX98FS47CaEyeodyPzi4OkW8SH7Gv55f4MQkHV8/edit?usp=sharing'
-}
+  name: "Mohammad Ali Zahir",
+  title: "Hello! I am",
+  desciption:
+    "Hello! My name is Mohammad Ali Zahir, a recent Software Engineering graduate. I am very passionate about programming in general, as well as learning about new technologies everyday. ",
+  image:
+    "https://drive.google.com/file/d/1jSJgZ_hk8dAbEFq-sC2HOgm6tyhJXXhT/view?usp=sharing",
+  imagebw:
+    "https://drive.google.com/file/d/1jSJgZ_hk8dAbEFq-sC2HOgm6tyhJXXhT/view?usp=sharing",
+  resumePdf:
+    "https://drive.google.com/file/d/1k4H7nqIZhs0I26SxdTaeHzdoNxGnOy0Q/view?usp=sharing",
+};
