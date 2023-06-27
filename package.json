@@ -1,7 +1,6 @@
 {
   "name": "developer-portfolio-v2",
   "version": "0.1.0",
-  "homepage": "https://AliZ786.github.io/Ali-Portfolio/",
   "private": true,
   "dependencies": {
     "@emailjs/browser": "^3.10.0",
