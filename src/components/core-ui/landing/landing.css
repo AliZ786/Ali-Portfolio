@@ -251,7 +251,7 @@
 }
 
 .landing--title {
-  background: linear-gradient(to right, blue, red, white);
+  background: linear-gradient(to right, white, blue);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
