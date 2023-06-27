@@ -3,6 +3,11 @@
   position: relative;
 }
 
+.text-style {
+  font-family: Maven Pro;
+  font-size: 20px;
+}
+
 .about .line-styling {
   position: absolute;
   top: 50px;

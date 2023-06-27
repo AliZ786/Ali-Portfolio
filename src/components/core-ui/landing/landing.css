@@ -250,8 +250,8 @@
   }
 }
 
-.movedown {
-  transform: translateY(
-    10px
-  ); /* Adjust the value to move the image down by your desired amount */
+.landing--title {
+  background: linear-gradient(to right, blue, red, white);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
 }

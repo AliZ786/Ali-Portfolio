@@ -28,7 +28,7 @@ function About() {
         <div className="about-body">
           <div className="about-description">
             <h2 style={{ color: theme.primary }}>{aboutData.title}</h2>
-            <p style={{ color: theme.tertiary }}>
+            <p className="text-style" style={{ color: theme.tertiary }}>
               {aboutData.description1}
               <br />
               <br />

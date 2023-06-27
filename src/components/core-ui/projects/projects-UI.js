@@ -46,7 +46,7 @@ function ProjectsUI({ theme, classes }) {
             )}
             <br />
             <br />
-            <h2 style={{ color: theme.tertiary }}>
+            <h2 className="text-style" style={{ color: theme.tertiary }}>
               To look at the all the other projects, please visit my{" "}
               <a href="https://github.com/AliZ786">GitHub Page</a>
             </h2>

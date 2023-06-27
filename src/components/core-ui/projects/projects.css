@@ -8,6 +8,11 @@
   padding: 2rem;
 }
 
+.text-style {
+  font-family: Maven Pro;
+  font-size: 18.4px;
+}
+
 .projects--header {
   display: flex;
   align-items: center;
