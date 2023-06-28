@@ -7,7 +7,7 @@ export const projectsData = [
     id: 1,
     projectName: "Xplorify",
     projectDesc:
-      "Capstone Project done which allowed multiple to get together to do a project.",
+      "Capstone Project which allowed multiple users who had an idea to get together to do a project.",
     tags: ["React Native", "Material UI", "Typescript"],
     code: "https://github.com/AliZ786/SOEN490",
     image: six,
